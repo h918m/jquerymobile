@@ -17,3 +17,9 @@ Installation
  $ npm install karma-ie-launcher --save-dev
  $ npm install karma-phantomjs-launcher --save-dev
 
+Running Tests
+-------------
+::
+
+ $ cd src/
+ $ karma start
