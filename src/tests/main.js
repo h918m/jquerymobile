@@ -7,7 +7,7 @@ requirejs.config({
     jquerymobile: 'lib/jquerymobile'
   },
   shim: {
-    jquerymobile: ['jquery']
+    jquerymobile: ['jquery', 'tests/jqm-init']
   },
   deps: ['tests/sampleTest'],
   callback: window.__karma__.start

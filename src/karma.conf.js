@@ -18,6 +18,7 @@ module.exports = function(config) {
     files: [
       {pattern: 'lib/jquery.js', included: false},
       {pattern: 'lib/jquerymobile.js', included: false},
+      {pattern: 'tests/jqm-init.js', included: false},
       {pattern: 'tests/sampleTest.js', included: false},
       'tests/main.js'
     ],
