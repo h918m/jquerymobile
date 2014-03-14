@@ -1,7 +1,7 @@
 karma-jquerymobile
 ==================
 
-POC of incompatibility of jquerymobile and karma
+POC of compatibility of jquerymobile and karma
 
 
 Installation
