@@ -1,4 +1,4 @@
-karma-jquerymobile
+jquerymobile
 ==================
 
 POC of compatibility of jquerymobile and karma
